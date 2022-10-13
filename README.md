@@ -1,2 +1,3 @@
 # test
-testing functinos of git
+testing functions of git
+this is from `branch1`
